@@ -10,10 +10,6 @@ This repository contains Python code for predicting diabetes in patients using m
 
 Diabetes is a widespread chronic disease characterized by high blood sugar levels. Early detection and management of diabetes are crucial for preventing complications and improving patient outcomes. This project aims to develop machine learning models to predict the risk of diabetes in individuals based on various health indicators and risk factors.
 
-## Dataset
-
-The dataset used in this project is the [Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database) from Kaggle. It consists of medical data for Pima Indian women, including attributes such as glucose level, blood pressure, skin thickness, insulin level, BMI, age, and pregnancy history. The dataset also contains a target variable indicating whether the patient has diabetes or not.
-
 ## Installation
 
 1. Clone the repository to your local machine:
